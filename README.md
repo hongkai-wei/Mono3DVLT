@@ -16,6 +16,7 @@ The paper has been accepted by **2025 IEEE Conference on Computer Vision and Pat
   - [Architecture: Mono3DVLT-MT](#Mono3DVLT-MT)
   - [Visualization](#Visualization)
   - [Results](#Results)
+  - [Citation](#Citation)
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
@@ -111,3 +112,15 @@ Fig.5 Visualization of Comparing our model's results with those of the best-perf
   <img src="images/jtksh6.png"/>
 </div>
 Fig.6 Visualization of Comparing our model's results with those of the best-performing existing models. The visualization includes both predicted and ground truth 3D bounding boxes displayed separately for clarity. Blue boxes represent ground truth, while green boxes indicate predictions. The scene captures a video tracking a white bus driving straight forward, viewed from directly below. 
+
+## 🏷️ Citation
+```bibtex
+@InProceedings{Wei_2025_CVPR,
+    author    = {Wei, Hongkai and Yang, Yang and Sun, Shijie and Feng, Mingtao and Song, Xiangyu and Lei, Qi and Hu, Hongli and Wang, Rong and Song, Huansheng and Akhtar, Naveed and Mian, Ajmal Saeed},
+    title     = {Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {13886-13896}
+}
+```
