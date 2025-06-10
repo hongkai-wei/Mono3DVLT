@@ -3,7 +3,7 @@ Author: Hongkai Wei, Yang Yang, Shijie Sun, Mingtao Feng, Xiangyu Song, Qi Lei, 
 
 Contact Email: hongkaiwei@chd.edu.cn
 
-The paper has been accepted by 2025 IEEE Conference on Computer Vision and Pattern Recognition (CVPR2025) 🎉.
+The paper has been accepted by **2025 IEEE Conference on Computer Vision and Pattern Recognition (CVPR2025)** 🎉.
 
 **The Code will be released soon!!!**
 <p align="center">
